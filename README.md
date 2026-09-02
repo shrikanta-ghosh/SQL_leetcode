@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1251-average-selling-price) |
 | [1789-primary-department-for-each-employee](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
