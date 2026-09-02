@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1251-average-selling-price) |
 | [1789-primary-department-for-each-employee](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1789-primary-department-for-each-employee) |
