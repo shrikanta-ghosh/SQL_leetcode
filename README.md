@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shrikanta-ghosh/SQL_leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
